@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4036742a.chunk.css",
+    "main.js": "/static/js/main.90fa18be.chunk.js",
+    "main.js.map": "/static/js/main.90fa18be.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3d355337.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3d355337.js.map",
+    "static/js/2.098807f8.chunk.js": "/static/js/2.098807f8.chunk.js",
+    "static/js/2.098807f8.chunk.js.map": "/static/js/2.098807f8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d42e0f89d20583025b4520de50a05701.js": "/precache-manifest.d42e0f89d20583025b4520de50a05701.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4036742a.chunk.css.map": "/static/css/main.4036742a.chunk.css.map",
+    "static/js/2.098807f8.chunk.js.LICENSE": "/static/js/2.098807f8.chunk.js.LICENSE",
+    "static/media/App.css": "/static/media/img1.4006cc0a.jpg",
+    "static/media/Game1.PNG": "/static/media/Game1.5f170311.PNG",
+    "static/media/Game2.PNG": "/static/media/Game2.f9db45e6.PNG",
+    "static/media/Game3.PNG": "/static/media/Game3.1b9bc430.PNG",
+    "static/media/project1-school.PNG": "/static/media/project1-school.c357a315.PNG",
+    "static/media/project2-school.PNG": "/static/media/project2-school.7aa79820.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d355337.js",
+    "static/js/2.098807f8.chunk.js",
+    "static/css/main.4036742a.chunk.css",
+    "static/js/main.90fa18be.chunk.js"
+  ]
+}
