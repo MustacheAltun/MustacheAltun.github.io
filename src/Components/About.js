@@ -16,7 +16,7 @@ function About(){
                      I have a solid 2+ years of extensive experience in HTML5, CSS3, javascript, bootstrap 3,
                     SASS/SCSS, react and wordpress also basic python. I am specialized in CSS3 with a keen attention
                     to design. Currently learning C# and python(GDscript).<br/><br/>
-                    I believe every hard obstacle can be overcome through sheer commitment and hardwork. Always up for learning new things. 
+                    I believe every obstacle can be overcome through sheer commitment and hard work. Always up for learning new things. 
                 </p>
                 <div className="Bonus">
                   <h3><b>About this Portfolio</b></h3>
