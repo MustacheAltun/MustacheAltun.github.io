@@ -395,7 +395,7 @@ nav ul li a:hover{
   }
   
 .Text-box a:hover::before{
-    filter: blur(20px);
+    filter: blur(5px);
     opacity: 1;
     animation: rainbow2 12s linear infinite; 
 }

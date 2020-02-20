@@ -5,11 +5,6 @@ function Contact(){
     return (
       <div className="Contact-All">
         <div id="Contact-All"></div>
-          {/* <section className="Contact">
-            <div className="Contact-Content">
-                <h4>Do you have a project for me? Email me:<a className="Email" href="mailto:9004231@student.zadkine.nl">9004231@student.zadkine.nl</a></h4>
-            </div>
-          </section> */}
           <footer>
               <div className="Footer-Content">
                 <p className="Credit">&copy;Copyright 2020 Mustafa Altun. <br/>Developed by Mustafa Altun.</p>
