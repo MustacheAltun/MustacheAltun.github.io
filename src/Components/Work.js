@@ -1,10 +1,11 @@
 import React from 'react';
 import '../App.css';
-import Game3 from '../Images/Game3.PNG'
-import Game2 from '../Images/Game2.PNG'
-import Game1 from '../Images/Game1.PNG'
-import School2 from '../Images/project2-school.PNG'
-import School1 from '../Images/project1-school.PNG'
+import Game2 from '../Images/Game2.PNG';
+import Game1 from '../Images/Game1.PNG';
+import keuzedeel1 from '../Images/keuzedeel.png';
+import School2 from '../Images/project2-school.PNG';
+import School1 from '../Images/project1-school.PNG';
+import { Link } from "react-router-dom";
 
 
 function Work(){
@@ -16,27 +17,21 @@ function Work(){
             <h2>Here are a couple of my projects:</h2>
             <section className="My-Work Reserve">
                 <div className="Image-area left">
-                    <img src= {Game3} alt=" An top down stealth game (gameplay). "/>
+                    <img src= {keuzedeel1} alt=" An computer with secure programming displayed on the screen. "/>
                 </div>
-                <div className = "Text-box color1">
+                <div className = "Text-box color3">
                     <div className="Text-Box-Content">
-                        <h3>Heist Meisters</h3>
-                        <h4>Hobby project</h4>
-                        <p className = "Normal">
-                            This will be one of my best game projects I have ever made in Godot, when I am done. I use the game engine called "Godot" as I mentioned earlier. 
-                            Now u would probably ask me why I would choose Godot over populair game engines like unity.
-                            Well first of all Godot is open source while unity is not, but what does open source mean?
-                            open source means, if someone puts his project willingly on Godot. Then other people can download the game u built and learn how you did it through watching your code.
-                            Godot is also free and does not have a limit to how much money u can earn like unity.<br/><br/>
-                            let's hop over to the game.<br/>
-                            My first thought on this game was what type of game do I want to make?
-                            First of all I wanted to make an stealth game while also making it tactical.
-                            Most important thing for me in this game is the user experience, I craft the best crafted user expierence.
-                            The goal of this game is to get clues from computers or letters in the rooms, about what is going on.
-                            But there is a catch, you cant open all doors some doors have a pin so only if you have the pin u can continue, be sure to inspect everything muhahaha.
-                            But wait what is that it is gonna be harder? well yes there will be cops and cameras, if they see you for certain ammount of time it is game over.
-                            
+                        <h3>secure programming</h3>
+                        <h4 className = "White">school optional subject</h4>
+                        <p className = "White">
+                            This is the second optional subject that I have been following in college.
+                              I have learned quite alot in this optional subject.
+                              At first I thought I will never learn anything here, but in the end I learned alot.
+                              Honestly I could have learned the same amount of information myself, but it is nice to have relaxing teacher while talking to him about some different subjects.
+                              This subject is about how secure everything is on the internet and how fragile bugs are.
+                              to learn more click on this link.
                         </p>
+                        <Link to="/keuzedeel" className="Button">View project</Link>
                     </div>
                 </div>
             </section>

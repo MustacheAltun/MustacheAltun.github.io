@@ -307,7 +307,7 @@ nav ul li a:hover{
 }
 
 .color1{
-  background-color: rgb(4, 155, 11);
+  background-color:rgb(39,83,94);
 }
 
 .color2{
@@ -590,21 +590,6 @@ Footer {
 
 }
 
-@keyframes slide{
-
-  0%{
-    background-image:  url(../src/Images/img1.jpg);
-  }
-  25%{
-    background-image:  url(../src/Images/BGimg2.jpg);
-  }
-  50%{
-    background-image:  url(../src/Images/BGimg3.jpg);
-  }
-  75%{
-    background-image:  url(../src/Images/BGimg4.jpg);
-  }
-}
 
 @keyframes rainbow{
   0%{
