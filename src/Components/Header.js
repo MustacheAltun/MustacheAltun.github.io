@@ -19,14 +19,15 @@ function Header() {
               <div id="Intro"></div>
               <div className="Header-Text">
                 <h1>Mustafa Altun</h1>
-                <h2>Game &amp; Web designer and/or programmer</h2>
+                <h2 className="center">Software/web developer</h2>
+                
               </div>
                 <div className="Intro-Text">
-                  <h4>I learned how to use and/or made projects with the following subjects:</h4><br/>
+                  <h4>These are the programming languages I am most skilled in:</h4><br/>
                   <div className="Intro-Text-TAB">
-                    <h5>&#9830;. Web development</h5><p>(&#9830; React and PHP &#9830;)</p><br/>
-                    <h5>&#9830; &#9830; . Game development</h5><p>(&#9830; Godot &#9830;)</p><br/>
-                    <h5>&#9830; &#9830; &#9830; . Database Design</h5><p>(&#9830; MySQL &#9830;)</p><br/>
+                    <h5>&#9830; C# </h5><br/>
+                    <h5>&#9830;&#9830; Python</h5><br/>
+                    <h5>&#9830; &#9830; &#9830; PHP</h5><br/>
                     <div id="About"></div>
                   </div>
                 </div>

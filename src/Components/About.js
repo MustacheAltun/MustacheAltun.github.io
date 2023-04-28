@@ -10,13 +10,10 @@ function About(){
             <div className="About-Conmtent">
                 <h3>Hi, I am Mustafa</h3>
                 <p>
-                    I am a programming student, I am always eager to learn a new language
-                     or improve code visibility for people new in the project group/team. 
-                     Over the years I have learned quite a bit about programming.
-                     I have a solid 2+ years of extensive experience in HTML5, CSS3, javascript, bootstrap 3,
-                    SASS/SCSS, react and wordpress also basic python. I am specialized in CSS3 with a keen attention
-                    to design. Currently learning C# and python(GDscript).<br/><br/>
-                    I believe every obstacle can be overcome through sheer commitment and hard work. Always up for learning new things. 
+                As a programming student, I am constantly driven to expand my knowledge and improve the codebase for new members of my project team. 
+                Through my years of experience, I have gained proficiency in a range of programming languages including C#, Python, React, HTML5, CSS3, and JavaScript, as well as various content management systems. 
+                With over 5 years of extensive experience in these fields, I am confident in my ability to deliver quality code and contribute effectively to any project.
+                <br/><br/>I believe every obstacle can be overcome through sheer commitment and hard work. Always up for learning new things. 
                 </p>
                 <div className="Bonus">
                   <h3><b>About this Portfolio</b></h3>

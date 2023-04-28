@@ -47,7 +47,12 @@ table {
 body{
   background-color: #f9f9f9;
 }
-
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
 a{
   -o-transition: .5s;
   -ms-transition: .5s;
@@ -316,6 +321,9 @@ nav ul li a:hover{
 
 .color3{
   background-color: rgb(40,40,41);
+}
+.color6{
+  color: #6C757D !important;
 }
 
 .color3 h3{
