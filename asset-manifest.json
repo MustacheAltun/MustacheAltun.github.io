@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.67f2c97a.chunk.css",
-    "main.js": "/static/js/main.1f8ff257.chunk.js",
-    "main.js.map": "/static/js/main.1f8ff257.chunk.js.map",
+    "main.css": "/static/css/main.84a77563.chunk.css",
+    "main.js": "/static/js/main.fb44a2f9.chunk.js",
+    "main.js.map": "/static/js/main.fb44a2f9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2fd7dc15.js",
     "runtime-main.js.map": "/static/js/runtime-main.2fd7dc15.js.map",
     "static/js/2.70544905.chunk.js": "/static/js/2.70544905.chunk.js",
     "static/js/2.70544905.chunk.js.map": "/static/js/2.70544905.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.67f2c97a.chunk.css.map": "/static/css/main.67f2c97a.chunk.css.map",
+    "static/css/main.84a77563.chunk.css.map": "/static/css/main.84a77563.chunk.css.map",
     "static/js/2.70544905.chunk.js.LICENSE.txt": "/static/js/2.70544905.chunk.js.LICENSE.txt",
-    "static/media/Game1.060b764d.PNG": "/static/media/Game1.060b764d.PNG",
-    "static/media/Game2.5d03d3af.PNG": "/static/media/Game2.5d03d3af.PNG",
+    "static/media/chengeta-app.e24818d2.png": "/static/media/chengeta-app.e24818d2.png",
     "static/media/App.css": "/static/media/img1.7987ee46.jpg",
     "static/media/keuzedeel.7a64eff7.png": "/static/media/keuzedeel.7a64eff7.png",
-    "static/media/project1-school.e00ec4d2.PNG": "/static/media/project1-school.e00ec4d2.PNG",
-    "static/media/project2-school.354975b2.PNG": "/static/media/project2-school.354975b2.PNG"
+    "static/media/salaris-dashboard.e221f14a.png": "/static/media/salaris-dashboard.e221f14a.png",
+    "static/media/zorgapp.50f14fef.PNG": "/static/media/zorgapp.50f14fef.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.2fd7dc15.js",
     "static/js/2.70544905.chunk.js",
-    "static/css/main.67f2c97a.chunk.css",
-    "static/js/main.1f8ff257.chunk.js"
+    "static/css/main.84a77563.chunk.css",
+    "static/js/main.fb44a2f9.chunk.js"
   ]
 }
